@@ -1,0 +1,6 @@
+[submodule "mozbc/mozbc"]
+	path = mozbc/mozbc
+	url = https://github.com/fengx7/mozbc_for_WRFv3.9.git
+[submodule "mozbc/GC-Classic_ICBC_maker"]
+	path = mozbc/GC-Classic_ICBC_maker
+	url = https://github.com/fengx7/WRF-GC-GCC_ICBC
